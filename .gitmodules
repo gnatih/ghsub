@@ -1,0 +1,3 @@
+[submodule "pmjdy"]
+	path = pmjdy
+	url = git@github.com:datameet-pune/pmjdy.git
